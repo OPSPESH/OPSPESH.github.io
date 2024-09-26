@@ -11,7 +11,7 @@ build_date = 2024-07-04T19:03:32Z
 title_as_file_name = ShootingCircles
 
 [display]
-width = 1920
+width = 1650
 height = 1080
 high_dpi = 1
 samples = 0
@@ -160,7 +160,7 @@ app_icon =
 custom_heap_size = 0
 heap_size = 256
 htmlfile = /builtins/manifests/web/engine_template.html
-cssfile = /builtins/manifests/web/light_theme.css
+cssfile = /builtins/manifests/web/dark_theme.css
 archive_location_prefix = archive
 archive_location_suffix = 
 engine_arguments = --verify-graphics-calls=false
